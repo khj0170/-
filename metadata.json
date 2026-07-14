@@ -1,0 +1,6 @@
+{
+  "name": "OBICON",
+  "description": "AI-powered global trade matchmaker and export supply chain monitor connecting Korean SMEs with Japanese and Vietnamese influencers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
